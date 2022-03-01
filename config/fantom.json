@@ -1,0 +1,25 @@
+{
+  "network": "fantom",
+  "factory_address": "0x152eE697f2E276fA89E96742e9bB9aB1F2E61bE3",
+  "usdc_weth_pair": "",
+  "dai_weth_pair": "",
+  "usdt_weth_pair": "",
+  "weth_address": "",
+  "native_address": "",
+  "dai_address": "",
+  "usdt_address": "",
+  "usdc_address": "",
+  "minimum_liquidity_threshold_eth": "15000",
+  "minimum_usd_threshold_new_pairs": "1000",
+  "factory": {
+    "address": "0x152eE697f2E276fA89E96742e9bB9aB1F2E61bE3",
+    "startBlock": "3795376"
+  },
+  "whitelist": [
+    "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+    "0xad84341756bf337f5a0164515b1f6f993d194e1f",
+    "0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e",
+    "0x74b23882a30290451a17c44f4f05243b6b58c76d",
+    "0x04068da6c83afcfa0e13ba15a6696662335d5b75"
+  ]
+}
