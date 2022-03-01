@@ -8,7 +8,7 @@
     "codegen": "graph codegen",
     "build": "graph build",
     "auth": "graph auth --product hosted-service e51e81f5674144c0936e70bd65658453",
-    "deploy": "graph deploy --product hosted-service mineloop99/exchange",    
+    "deploy": "graph deploy --product hosted-service mineloop99/exchange-mainnet",    
     "prepare:fantom": "mustache ../../config/fantom.json subgraph.yaml > subgraph.yaml"
   }
 }
